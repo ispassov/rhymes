@@ -1,0 +1,1 @@
+export let words = ['one', 'two', 'three', 'four', 'tree', 'tour']
