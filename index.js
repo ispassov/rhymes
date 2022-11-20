@@ -1,5 +1,5 @@
 import { words } from './words.js'
-let input = 'еб'
+let input = 'раз'
 
 /* MY_ALGORITHM */
 /* words.forEach(word => {
